@@ -6,7 +6,7 @@ metadata:
     owner: Yaroslav
 spec:
   selector:
-    app: kgb
+    project: kgb
   ports:
     - name: app-listener
       protocol: TCP
